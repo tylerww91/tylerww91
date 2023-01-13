@@ -4,6 +4,9 @@ Hi there 👋 I'm Tyler Watson. I'm a detail-oriented, compassionate Software En
 
 
 
+How to reach me: tylerww91@gmail.com or https://www.linkedin.com/in/tylerwatson91/
+
+
 - Languages: HTML | CSS | Javascript | SQL
 - Tools: GitHub | Slack | VScode | Netlify | Beekeeper | Heroku
 - Databases: PostgreSQL | Supabase
