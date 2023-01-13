@@ -4,9 +4,9 @@ Hi there 👋 I'm Tyler Watson. I'm a detail-oriented, compassionate Software En
 
 
 
-Languages: HTML | CSS | Javascript | SQL
-Tools: GitHub | Slack | VScode | Netlify | Beekeeper | Heroku
-Databases: PostgreSQL | Supabase
-Frameworks/Libraries: Node.js | Express | Puppeteer
-Testing: Jest | Supertest
-Dev Practices: TDD | Pair & Mob Programming
+- Languages: HTML | CSS | Javascript | SQL
+- Tools: GitHub | Slack | VScode | Netlify | Beekeeper | Heroku
+- Databases: PostgreSQL | Supabase
+- Frameworks/Libraries: Node.js | Express | Puppeteer
+- Testing: Jest | Supertest
+- Dev Practices: TDD | Pair & Mob Programming
