@@ -10,6 +10,7 @@ How to reach me: tylerww91@gmail.com or https://www.linkedin.com/in/tylerwatson9
 - Languages: HTML | CSS | Javascript | SQL
 - Tools: GitHub | Slack | VScode | Netlify | Beekeeper | Heroku
 - Databases: PostgreSQL | Supabase
-- Frameworks/Libraries: Node.js | Express | Puppeteer
+- Frameworks/Libraries: React | Express | Puppeteer | MUI
+- Environments: Node.js
 - Testing: Jest | Supertest
 - Dev Practices: TDD | Pair & Mob Programming
